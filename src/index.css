@@ -1,0 +1,46 @@
+body {
+  font-family: sans-serif;
+  background-color: cornflowerblue;
+  display: flex;
+  justify-content: center;
+}
+
+h1{
+  margin-bottom: 7%;
+  margin-top: 7%;
+}
+
+form{
+  display: flex;
+  justify-content: space-around;
+}
+
+.input{
+  border: solid 1px black;
+}
+
+.send{
+  background-color: honeydew;
+  margin-left: 2%;
+}
+
+button{
+  background-color: rebeccapurple;
+  border: solid 1px black;
+}
+
+li{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.toDoListContent{
+  margin-top: 10%;
+}
+
+.done{
+  text-decoration: line-through;
+}
+
